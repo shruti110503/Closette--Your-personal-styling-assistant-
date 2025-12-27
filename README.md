@@ -1,4 +1,4 @@
-# Closette-Your-personal-styling-assistant-
+# Closette-Your-personal-styling-assistant
 A smart web application that allows users to digitally organize, manage, and visualize their wardrobe — enhanced with an **AI-powered recommendation system** that suggests outfits and clothing combinations based on user preferences and wardrobe data.
 
 This project is built as a full-stack web application using **React, Tailwind CSS, Node.js, and AI-based logic for recommendations**.
@@ -62,31 +62,27 @@ This makes the closet not just a storage system, but a **personal styling assist
 - Node.js installed
 - npm or yarn installed
 
-### Steps
+## ⚙️ Steps
 
-```bash
+```
 git clone https://github.com/your-username/virtual-closet-web.git
 cd virtual-closet-web
 npm install
 npm start
 
 For backend:
+
 cd backend
 npm install
 npm start
----
+```
 
 🌱 Future Enhancements
+- More advanced ML models for recommendations
 
-More advanced ML models for recommendations
+- Drag & drop outfit builder
 
-Drag & drop outfit builder
-
-Mobile app version
-
-🤝 Contributing
-Contributions are welcome!
-Fork the repo, create a new branch, and submit a pull request.
+- Mobile app version
 
 📄 License
 This project is open source under the MIT License.
