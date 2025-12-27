@@ -77,7 +77,7 @@ npm install
 npm start
 ```
 ---
-###🌱 Future Enhancements
+### 🌱 Future Enhancements
 
 - More advanced ML models for recommendations
 
@@ -85,11 +85,11 @@ npm start
 
 - Mobile app version
 ---
-###📄 License
+### 📄 License
 
 This project is open source under the MIT License.
 ---
-###👩‍💻 Author
+### 👩‍💻 Author
 
 Shruti Shukla
 B.Tech Student | Web Developer
