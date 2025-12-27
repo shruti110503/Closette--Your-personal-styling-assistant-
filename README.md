@@ -76,17 +76,18 @@ cd backend
 npm install
 npm start
 ```
-
+---
 🌱 Future Enhancements
 - More advanced ML models for recommendations
 
 - Drag & drop outfit builder
 
 - Mobile app version
-
+---
 📄 License
 This project is open source under the MIT License.
-
+---
 👩‍💻 Author
 Shruti Shukla
 B.Tech Student | Web Developer
+---
