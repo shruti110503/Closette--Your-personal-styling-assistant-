@@ -92,5 +92,6 @@ This project is open source under the MIT License.
 ### 👩‍💻 Author
 
 Shruti Shukla
-B.Tech Student | Web Developer
+
+B.Tech Student | Full Stack Developer
 ---
